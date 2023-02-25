@@ -12,7 +12,7 @@ import (
 
 	mockdb "github.com/deeprath/simplebank/db/mock"
 	db "github.com/deeprath/simplebank/db/sqlc"
-	"github.com/deeprath/simplebank/db/util"
+	"github.com/deeprath/simplebank/util"
 	"github.com/golang/mock/gomock"
 	"github.com/stretchr/testify/require"
 )

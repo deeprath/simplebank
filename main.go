@@ -6,7 +6,7 @@ import (
 
 	"github.com/deeprath/simplebank/api"
 	db "github.com/deeprath/simplebank/db/sqlc"
-	"github.com/deeprath/simplebank/db/util"
+	"github.com/deeprath/simplebank/util"
 	_ "github.com/lib/pq"
 )
 
